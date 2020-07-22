@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">appdosheroi</string>
+    <string name="chosepart">Escolha o</string>
+    <string name="chosefinal">Herói</string>
+    <string name="nome_bat">Bruce Wayne</string>
+    <string name="cod_bat">Batman</string>
+    <string name="especice_bat">Humano</string>
+    <string name="hab_bat">Inteligencia, conhecimento de artes-marciais</string>
+    <string name="vul_bat">Sentimentos</string>
+    <string name="equip_bat">Cinto de utilidades, Batmóvel, Batarangues</string>
+    <string name="desc_bat">Suas utilidades em combate</string>
+    <string name="titlebotton">Batman</string>
+    <string name="batimg">batimg</string>
+
+    <string name="nome_aqua">Arthur Curry</string>
+    <string name="cod_aqua">Aquaman</string>
+    <string name="especice_aqua"> Híbrido de Atlante e Humano</string>
+    <string name="hab_aqua"> Respirar embaixo da água, nadar a velocidades altíssimas, grande durabilidade, força sobre-humana, poder telepático</string>
+    <string name="vul_aqua"> Falta de contato com água</string>
+    <string name="equip_aqua"> Traje aquatico</string>
+    <string name="desc_aqua">Permite a circulação de água no corpo do usuário por 24 horas </string>
+    <string name="aquaimg">Aquaimg</string>
+    <string name="bottomname3">Aquaman</string>
+    <string name="textview">TextView</string>
+
+    <string name="nome_sup">Clark Joseph Kent</string>
+    <string name="cod_sup">Superman </string>
+    <string name="especice_sup">Kryptonian</string>
+    <string name="hab_sup">Super-força; Super agilidade; Voo; Visão de Calor; Sopro congelante; Super Sentidos</string>
+    <string name="vul_sup">magia e kriptonita</string>
+    <string name="equip_sup">Nenhum</string>
+    <string name="desc_sup">Nenhuma</string>
+    <string name="supimg">supimg</string>
+    <string name="bottomname">Superman</string>
+
+    <string name="nome">Nome</string>
+    <string name="nome_flash2">Barry Allen</string>
+    <string name="cod">Codinome </string>
+    <string name="cod_flash2">Flash</string>
+    <string name="especice">Espécie</string>
+    <string name="espec2">Metahumano</string>
+    <string name="hab">Habilidade</string>
+    <string name="habfla2">Super velocidade, invulnerabilidade, reflexos aprimorados</string>
+    <string name="vul">Vulnerabilidade</string>
+    <string name="vulflas2">Pode acabar ficando preso entre dimensões e tendo dificuldades para parar de correr e para entrar nesta dimensão</string>
+    <string name="equip">Equipamento</string>
+    <string name="equipfla2">Traje</string>
+    <string name="desc">Descrição</string>
+    <string name="desc_flash">Unifome vermelho</string>
+    <string name="flashimg">flashimg</string>
+    <string name="bottomname2">Flash</string>
+
+    <string name="buttonMov">Veja mais </string>
+</resources>
